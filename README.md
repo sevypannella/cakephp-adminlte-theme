@@ -1,5 +1,5 @@
 # CakePHP AdminLTE Theme (1.1.0-plugin)
-# Separate Templates for each Plugin
+# Separate Template for each Plugin
 
 **What's diferent in this fork**
 
