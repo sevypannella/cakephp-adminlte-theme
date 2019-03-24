@@ -38,7 +38,7 @@ This release 1.1.0-plugin is can be considered the stable version, as indicated 
 You can install using [composer](http://getcomposer.org).
 
 ```
-composer require sevypannella/cakephp-adminlte-theme
+composer require sevypannella/cakephp-adminlte-theme-plugin
 ```
 
 ### Enable Plugin
